@@ -155,8 +155,8 @@ Dreaming Big. Building Bigger.
 
 <div align="center">
 
-##removed
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhayat&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+
+
 
 <br/>
 
