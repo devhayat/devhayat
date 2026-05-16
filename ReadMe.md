@@ -1,8 +1,10 @@
 <div align="center">
 
-![Typing Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=3000&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Mohammed+Hayat+Azad)
+![Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=3000&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Mohammed+Hayat+Azad)
 
-![Typing Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Android+Dev+%7C+Cybersecurity;Hackathon+Champion+%7C+Problem+Solver;Building+AI-Powered+Smart+Healthcare;Code.+Compete.+Conquer.)
+![Achievements](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%8F%86+Coder+Of+The+Year+2026;%F0%9F%8F%86+Best+Intern+--+V2V+EdTech+LLP;%F0%9F%A5%87+1st+Place+%C2%B7+Prompt+War+Hackathon;%F0%9F%A5%87+1st+Place+%C2%B7+Technical+Quiz+Competition;%F0%9F%A5%87+1st+Place+%C2%B7+Quiz+Competition;%F0%9F%8F%81+Technothon+Grand+Finalist;%F0%9F%8F%86+Nurofest+Double+Winner;%F0%9F%92%BB+Multiple+Hackathon+Wins)
+
+![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&height=40&lines=AI+Developer+%7C+Android+Dev+%7C+Cybersecurity;Building+AI-Powered+Smart+Healthcare;Code.+Compete.+Conquer.)
 
 <img src="https://github.com/devhayat/devhayat/raw/main/assets/github.gif" width="100%" alt="banner"/>
 
