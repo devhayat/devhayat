@@ -155,18 +155,25 @@ Dreaming Big. Building Bigger.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devhayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhayat&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<br/>
-
+### Streak
 <img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
+### Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=devhayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
 
-<br/>
+<br/><br/>
+
+### Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhayat&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+
+<br/><br/>
+
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhayat&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10" alt="Top Languages"/>
+
+<br/><br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
