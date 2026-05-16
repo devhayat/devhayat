@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Mohammed%20Hayat%20Azad&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Tech%20Innovator%20%7C%20AI%20%26%20Android%20Developer%20%7C%20🛡️%20Cybersecurity%20Enthusiast&descSize=20&descAlignY=60"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Hayat%20Azad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Tech%20Innovator%20%7C%20AI%20%26%20Android%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=68"/>
+
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+Android+Developer+🤖;Cybersecurity+Enthusiast+🛡️;Award-Winning+Hackathon+Competitor+🏆;Building+AI-Powered+Smart+Healthcare+🚀;Code.+Compete.+Conquer.+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+Android+Developer;Cybersecurity+Enthusiast;Award-Winning+Hackathon+Competitor;Building+AI-Powered+Smart+Healthcare;Code.+Compete.+Conquer.)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/devhayat/devhayat/raw/main/assets/github.gif" width="100%" alt="Coding Setup"/>
 </div>
 
 ---
@@ -21,23 +27,23 @@ class MohammedHayatAzad:
     def __init__(self):
         self.name     = "Mohammed Hayat Azad"
         self.alias    = "devhayat"
-        self.location = "Mumbai, India 🇮🇳"
+        self.location = "Mumbai, India"
         self.roles    = [
-            "AI Developer 🤖",
-            "Android Developer 📱",
-            "Cybersecurity Enthusiast 🛡️",
+            "AI Developer",
+            "Android Developer",
+            "Cybersecurity Enthusiast",
         ]
         self.focus    = "AI-Powered Smart Healthcare"
-        self.spirit   = "⚡ Code. Compete. Conquer."
+        self.spirit   = "Code. Compete. Conquer."
 
     def current_mission(self):
-        return "Building Real-World Solutions 🚀"
+        return "Building Real-World Solutions"
 ```
 
 </td>
 <td width="48%">
 
-### ⚡ Skill Levels
+### Quick Stats
 ```
 ▰▰▰▰▰▰▰▰▰░  AI / ML          90%
 ▰▰▰▰▰▰▰▰▰░  Android Dev      90%
@@ -45,16 +51,12 @@ class MohammedHayatAzad:
 ▰▰▰▰▰▰▰▰░░  Full Stack       75%
 ▰▰▰▰▰▰▰░░░  Cloud & DevOps   70%
 
-🏆 Dreaming Big. Building Bigger.
+Dreaming Big. Building Bigger.
 ```
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://github.com/devhayat/devhayat/raw/main/assets/github.gif" width="720" alt="Coding Setup"/>
-</div>
 
 ---
 
@@ -72,7 +74,7 @@ class MohammedHayatAzad:
 <tr>
 <td align="center">🥇<br/><b>1st Place<br/>Quiz Competition</b></td>
 <td align="center">🏁<br/><b>Technothon<br/>Grand Finalist</b></td>
-<td align="center">🏆<br/><b>Double Winner<br/>Nurofest (2x 🥇)</b></td>
+<td align="center">🏆<br/><b>Double Winner<br/>Nurofest (2x)</b></td>
 <td align="center">💻<br/><b>Multiple Hackathons<br/>& Tech Competitions</b></td>
 </tr>
 </table>
@@ -83,7 +85,7 @@ class MohammedHayatAzad:
 
 ## 💻 Tech Stack
 
-### 🗣️ Languages
+### Languages
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -98,16 +100,16 @@ class MohammedHayatAzad:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -116,7 +118,7 @@ class MohammedHayatAzad:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -125,7 +127,7 @@ class MohammedHayatAzad:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 AI / ML
+### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -135,7 +137,7 @@ class MohammedHayatAzad:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🔧 Hardware & Other Tools
+### Hardware & Other Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
@@ -153,26 +155,23 @@ class MohammedHayatAzad:
 
 <div align="center">
 
-### 🔥 Core Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=devhayat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=devhayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-### 🚀 Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=devhayat&theme=github-dark-blue&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=c9d1d9&stroke=30363d&dates=c9d1d9" alt="GitHub Streak"/><br/>
+<br/>
 
-### 💻 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhayat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhayat&custom_title=Contribution+Activity&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area_color=A78BFA&area=true&hide_border=true" alt="Contribution Graph"/>
+<br/>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=devhayat&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhayat&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
 
-### ✍️ Dev Quote
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devhayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+
+<br/>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=devhayat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -182,14 +181,12 @@ class MohammedHayatAzad:
 
 <div align="center">
 
-| 🚀 Project | 💻 Tech Stack | 📊 Impact | 🎯 Status |
+| Project | Tech Stack | Impact | Status |
 |:---|:---|:---|:---|
-| **🩺 AI Smart Healthcare System** | Python + TensorFlow + Android + Firebase | Real-world patient diagnosis & monitoring | 🔧 In Progress |
-| **🔐 Cybersecurity Toolkit** | Python + Networking + Scripting | Threat detection & vulnerability analysis | 🔧 Coming Soon |
-| **📱 Android App** | Kotlin + Firebase + Android SDK | Mobile-first solution for real users | 🔧 Coming Soon |
-| **🤖 AI Automation Engine** | Python + FastAPI + ML | Intelligent task automation pipeline | 🔧 Coming Soon |
-
-> 💡 *More projects dropping soon — stay tuned!*
+| **AI Smart Healthcare System** | Python + TensorFlow + Android + Firebase | Real-world patient diagnosis and monitoring | In Progress |
+| **Cybersecurity Toolkit** | Python + Networking + Scripting | Threat detection and vulnerability analysis | Coming Soon |
+| **Android App** | Kotlin + Firebase + Android SDK | Mobile-first solution for real users | Coming Soon |
+| **AI Automation Engine** | Python + FastAPI + ML | Intelligent task automation pipeline | Coming Soon |
 
 </div>
 
@@ -198,19 +195,19 @@ class MohammedHayatAzad:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║            ⚡ Code. Compete. Conquer. ⚡                     ║
-║                                                              ║
-║   🤖 AI Developer  |  📱 Android  |  🛡️ Cybersecurity       ║
-║   🏆 Award-Winner  |  🚀 Innovator  |  💡 Problem Solver    ║
-║                                                              ║
-║           Dreaming Big. Building Bigger. 🌐                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
++----------------------------------------------------------+
+|                                                          |
+|          Code. Compete. Conquer.                         |
+|                                                          |
+|   AI Developer  |  Android  |  Cybersecurity            |
+|   Award-Winner  |  Innovator  |  Problem Solver          |
+|                                                          |
+|         Dreaming Big. Building Bigger.                   |
+|                                                          |
++----------------------------------------------------------+
 ```
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed-Hayat-Azad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhayatazad13@gmail.com)
@@ -223,8 +220,6 @@ class MohammedHayatAzad:
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
