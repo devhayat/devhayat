@@ -52,13 +52,7 @@ class MohammedHayatAzad:
 
 <div align="center">
 
-| 🏆 **Coder Of The Year 2026** | 🥈 **2nd Prize** | 🏅 **Best Intern** |
-|:---:|:---:|:---:|
-| <sub>AIKTC Polytechnic</sub> | <sub>Build vs Break Hackathon</sub> | <sub>V2V EdTech LLP</sub> |
-| 🥇 **1st Place** | 🥇 **1st Place** | 🥇 **1st Place** |
-| <sub>Prompt War Hackathon</sub> | <sub>Technical Quiz Competition</sub> | <sub>Quiz Competition · SSJ Polytechnic</sub> |
-| 🏆 **Nurofest Double Winner** | 🏁 **Technothon Grand Finalist** | 🎓 **Tech Mentor** |
-| <sub>2x First Prize</sub> | <sub>VES</sub> | <sub>Mentored 200+ Students</sub> |
+<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/assets/hud-achievements.svg" alt="achievements unlocked" width="100%"/>
 
 </div>
 
