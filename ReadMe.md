@@ -100,11 +100,7 @@ class MohammedHayatAzad:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/assets/hud-stats.svg" alt="player highlights" width="100%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FBD000&currStreakLabel=06B6D4&sideNums=2563EB&currStreakNum=C4B5FD&sideLabels=06B6D4&dates=94A3B8" alt="github streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FBD000&currStreakLabel=06B6D4&sideNums=2563EB&currStreakNum=C4B5FD&sideLabels=06B6D4&dates=94A3B8&timezone=Asia/Kolkata)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
@@ -114,9 +110,9 @@ class MohammedHayatAzad:
 
 <div align="center">
 
-Open to **hackathons**, **AI and healthcare projects**, **mentoring** and **community collaborations**.
+<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/assets/hud-contact.svg" alt="press start to collaborate" width="100%"/>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed-Hayat-Azad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhayatazad13@gmail.com)
@@ -125,8 +121,8 @@ Open to **hackathons**, **AI and healthcare projects**, **mentoring** and **comm
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=9999&color=A78BFA&center=true&vCenter=true&width=800&height=40&lines=DREAMING+BIG.+BUILDING+BIGGER." alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=2000&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=DREAMING+BIG.+BUILDING+BIGGER.;CODE.+COMPETE.+CONQUER.;THANKS+FOR+VISITING+-+SEE+YOU+AT+THE+NEXT+LEVEL" alt="closing line"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=110&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" alt="footer wave"/>
 
 </div>
