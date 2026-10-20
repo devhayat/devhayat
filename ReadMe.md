@@ -94,16 +94,11 @@ class MohammedHayatAzad:
 
 <br/>
 
-```text
-POWER LEVELS
-=====================================
-AI / ML         [█████████░]  90%
-Mobile App Dev  [█████████░]  90%
-Mentoring       [█████████░]  90%
-Full Stack      [████████░░]  75%
-Cloud & DevOps  [███████░░░]  70%
-=====================================
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/assets/hud-skills.svg" alt="power levels" width="100%"/>
+
+</div>
 
 <br/>
 
@@ -111,24 +106,11 @@ Cloud & DevOps  [███████░░░]  70%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FBD000&currStreakLabel=06B6D4" alt="streak"/>
+<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/assets/hud-stats.svg" alt="player highlights" width="100%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="49%"/>
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="github stats" width="49%"/>
-
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%"/>
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="49%"/>
-
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%"/>
-<img src="https://ghchart.rshah.org/7C3AED/devhayat" alt="contribution chart" width="49%"/>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/devhayat/devhayat/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FBD000&currStreakLabel=06B6D4&sideNums=2563EB&currStreakNum=C4B5FD&sideLabels=06B6D4&dates=94A3B8" alt="github streak"/>
 
 </div>
 
