@@ -1,190 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Mohammed%20Hayat%20Azad&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Developer%20%E2%80%A2%20Android%20Dev%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Tech%20Mentor&descSize=18&descAlignY=60" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=230&section=header&text=Mohammed%20Hayat%20Azad&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20Developer%20%C2%B7%20Android%20Dev%20%C2%B7%20Cybersecurity%20%C2%B7%20Tech%20Mentor&descSize=17&descAlignY=62" width="100%" alt="header"/>
 
-<a href="https://github.com/devhayat">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Code.+Compete.+Conquer.;Building+AI-Powered+Smart+Healthcare;Mentored+200%2B+Students+%F0%9F%8E%93;Build+vs+Break+Hackathon+%E2%80%94+2nd+Prize+%F0%9F%A5%88;Technical+Team+%40+GDG+on+Campus+AIKTC;Coder+Of+The+Year+2026+%F0%9F%8F%86" alt="typing intro"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1400&color=FBD000&center=true&vCenter=true&width=900&height=50&lines=PLAYER+1+%3A+MOHAMMED+HAYAT+AZAD;CODER+OF+THE+YEAR+2026;BUILD+VS+BREAK+HACKATHON+-+2ND+PRIZE;MENTORED+200%2B+STUDENTS;TECH+TEAM+%40+GDG+ON+CAMPUS+AIKTC;CODE.+COMPETE.+CONQUER." alt="typing"/>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Mumbai-India-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%20Healthcare-7DD3FC?style=for-the-badge&logo=heart&logoColor=white)
-![Mentor](https://img.shields.io/badge/Tech%20Mentor-200%2B%20Students-F59E0B?style=for-the-badge&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Open%20To-Hackathons-34D399?style=for-the-badge&logo=rocket&logoColor=white)
+<img src="https://github.com/devhayat/devhayat/raw/main/assets/github.gif" width="100%" alt="banner"/>
 
-<img src="https://komarev.com/ghpvc/?username=devhayat&color=A78BFA&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
+<br/>
+
+![Mumbai](https://img.shields.io/badge/Mumbai-India-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20Healthcare-06B6D4?style=for-the-badge&logoColor=white)
+![Mentor](https://img.shields.io/badge/Tech%20Mentor-200%2B%20Students-F59E0B?style=for-the-badge&logoColor=white)
+![Open](https://img.shields.io/badge/Open%20To-Hackathons-22C55E?style=for-the-badge&logo=rocket&logoColor=white)
+
+<img src="https://komarev.com/ghpvc/?username=devhayat&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
+## 🎮 Player Profile
 
 ```python
 class MohammedHayatAzad:
     def __init__(self):
-        self.name     = "Mohammed Hayat Azad"
-        self.alias    = "devhayat"
-        self.location = "Mumbai, India"
-        self.studying = "B.Tech Computer Engineering @ A.I. Kalsekar Technical Campus"
-        self.roles    = [
-            "AI Developer",
-            "Android Developer",
-            "Cybersecurity Enthusiast",
-            "Tech Mentor",
-        ]
-        self.communities = [
-            "GDG on Campus AIKTC (Technical Team)",
-            "V2V EdTech (Python Full Stack Mentor)",
-        ]
-        self.focus    = "AI-Powered Smart Healthcare"
-        self.spirit   = "Code. Compete. Conquer."
-
-    def current_mission(self):
-        return "Building real-world solutions that matter"
+        self.alias       = "devhayat"
+        self.location    = "Mumbai, India"
+        self.level       = "B.Tech Computer Engineering @ A.I. Kalsekar Technical Campus"
+        self.classes     = ["AI Developer", "Android Developer", "Cybersecurity", "Tech Mentor"]
+        self.guilds      = ["GDG on Campus AIKTC", "V2V EdTech"]
+        self.main_quest  = "AI-Powered Smart Healthcare"
+        self.motto       = "Code. Compete. Conquer."
 
     def fun_fact(self):
         return "I debug faster than I sleep"
 ```
 
-</td>
-<td width="45%" valign="top">
+<div align="center">
 
-### 🎯 Right Now
-- 🧬 Building **AI-powered healthcare** systems
-- 🎓 Mentoring **200+ students** in Python Full Stack
-- 🌐 Contributing to **GDG on Campus AIKTC**
-- 🏆 Competing in hackathons (and winning them)
-- 🚀 Dreaming of a **startup ecosystem**
+| 🎓 Education | 🎯 Current Quests |
+|:---|:---|
+| **B.Tech, Computer Engineering** (DSE)<br/>A.I. Kalsekar Technical Campus (AIKTC), New Panvel<br/><br/>**Diploma, Computer Engineering**<br/>Anjuman-I-Islam's Abdul Razzak Kalsekar Polytechnic, Panvel<br/>88.65% · First Class with Distinction | 🧬 Building AI-powered healthcare systems<br/>🎓 Mentoring 200+ students in Python Full Stack<br/>🌐 Tech team at GDG on Campus AIKTC<br/>🏆 Competing in hackathons<br/>🚀 Dreaming of a startup ecosystem |
 
-### 🎓 Education
-- **B.Tech, Computer Engineering** (DSE) — A.I. Kalsekar Technical Campus (AIKTC), New Panvel
-- **Diploma, Computer Engineering** — Anjuman-I-Islam's Abdul Razzak Kalsekar Polytechnic, Panvel
-  *88.65% · First Class with Distinction*
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
 
----
-
-## 🏆 Achievements & Recognition
+## 🏆 Achievements Unlocked
 
 <div align="center">
 
-| | | |
+| 🏆 **Coder Of The Year 2026** | 🥈 **2nd Prize** | 🏅 **Best Intern** |
 |:---:|:---:|:---:|
-| 🏆 **Coder Of The Year 2026**<br/><sub>AIKTC Polytechnic</sub> | 🥈 **2nd Prize**<br/><sub>Build vs Break Hackathon</sub> | 🏅 **Best Intern**<br/><sub>V2V EdTech LLP</sub> |
-| 🥇 **1st Place**<br/><sub>Prompt War Hackathon</sub> | 🥇 **1st Place**<br/><sub>Technical Quiz Competition</sub> | 🥇 **1st Place**<br/><sub>Quiz Competition · SSJ Polytechnic</sub> |
-| 🏆 **Nurofest Double Winner**<br/><sub>2× First Prize</sub> | 🏁 **Technothon Grand Finalist**<br/><sub>VES</sub> | 🎓 **Tech Mentor**<br/><sub>Mentored 200+ Students</sub> |
+| <sub>AIKTC Polytechnic</sub> | <sub>Build vs Break Hackathon</sub> | <sub>V2V EdTech LLP</sub> |
+| 🥇 **1st Place** | 🥇 **1st Place** | 🥇 **1st Place** |
+| <sub>Prompt War Hackathon</sub> | <sub>Technical Quiz Competition</sub> | <sub>Quiz Competition · SSJ Polytechnic</sub> |
+| 🏆 **Nurofest Double Winner** | 🏁 **Technothon Grand Finalist** | 🎓 **Tech Mentor** |
+| <sub>2x First Prize</sub> | <sub>VES</sub> | <sub>Mentored 200+ Students</sub> |
 
 </div>
 
----
+<br/>
 
-## 🌐 Community & Leadership
+## 🌐 Guilds & Leadership
 
 <div align="center">
 
-| Role | Where | What I do |
+| Role | Where | Mission |
 |:---|:---|:---|
-| 🔵 **Technical Team Member** | **Google Developer Groups on Campus · AIKTC** | Build, ship and support tech initiatives, events and the community website |
-| 🎓 **Python Full Stack Mentor** | **V2V EdTech** | Coordinate and teach the Python Full Stack Internship; **200+ students mentored** |
-| 📱 **Mobile App Dev Intern → Best Intern** | **V2V EdTech LLP** | Jun–Sep 2025 · built Android apps and earned the Best Intern award |
+| 🔵 **Technical Team Member** | Google Developer Groups on Campus · AIKTC | Building and supporting tech initiatives and community events |
+| 🎓 **Python Full Stack Mentor** | V2V EdTech | Coordinating and teaching the internship program · 200+ students mentored |
+| 📱 **Mobile App Dev Intern** | V2V EdTech LLP · Jun-Sep 2025 | Built Android apps and won the Best Intern award |
 
 </div>
 
----
+<br/>
 
-## 💻 Tech Stack
+## ⚡ Power-Ups
 
 <div align="center">
-
-**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,cpp,c,cs,swift,php,html,css&perline=12" alt="languages"/>
-
-**AI / ML & Data**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv&perline=12" alt="ai"/>
-
-**Frameworks & Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,nextjs,react,angular,bootstrap,tailwind&perline=12" alt="frameworks"/>
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase&perline=12" alt="mobile"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,neo4j,dynamodb,mongodb&perline=12" alt="databases"/>
-
-**Cloud, DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,digitalocean,docker,git,github,linux,postman,figma,arduino,raspberrypi,unity,blender,powerbi&perline=12" alt="tools"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv,fastapi,django,nodejs,express,nextjs,react,angular,bootstrap,tailwind&perline=15" alt="ai and frameworks"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,mysql,postgres,sqlite,supabase,neo4j,dynamodb,mongodb&perline=10" alt="mobile and databases"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,digitalocean,docker,git,github,linux,postman,figma,arduino,raspberrypi,unity,blender,powerbi&perline=16" alt="cloud and tools"/>
 
 </div>
 
-### 📊 Skill Matrix
+<br/>
 
 ```text
+POWER LEVELS
+=====================================
 AI / ML         [█████████░]  90%
 Android Dev     [█████████░]  90%
+Mentoring       [█████████░]  90%
 Cybersecurity   [████████░░]  80%
 Full Stack      [████████░░]  75%
 Cloud & DevOps  [███████░░░]  70%
-Mentoring       [█████████░]  90%
+=====================================
 ```
 
----
+<br/>
 
-## 🌟 Project Showcase
+## 👾 Boss Levels (Projects)
 
 <div align="center">
 
-| Project | Tech Stack | Impact | Status |
-|:---|:---|:---|:---:|
-| 🚑 **MediNexus: Pre-Mortem Dispatch**<br/><sub>Build vs Break · 🥈 2nd Prize</sub> | Next.js · OpenStreetMap · AI Assistant | Emergency hospital capacity coordination with belief-based bed tracking and pre-mortem testing of dispatch plans | ✅ Shipped |
-| 🫀 **QT Sentinel** | Healthcare AI · Simulation | Personalized cardiac drug-risk simulation (final-year project) | 🔨 In Progress |
-| 🧬 **AI Smart Healthcare System** | Python · TensorFlow · Android · Firebase | Real-world patient diagnosis and monitoring | 🔨 In Progress |
-| 🛡️ **Cybersecurity Toolkit** | Python · Networking · Scripting | Threat detection and vulnerability analysis | 🔜 Coming Soon |
-| 🤖 **AI Automation Engine** | Python · FastAPI · ML | Intelligent task automation pipeline | 🔜 Coming Soon |
+| Project | What it does | Status |
+|:---|:---|:---:|
+| 🚑 **MediNexus: Pre-Mortem Dispatch**<br/><sub>🥈 Build vs Break 2nd Prize</sub> | Emergency hospital capacity coordination with belief-based bed tracking and pre-mortem testing of dispatch plans | ✅ Cleared |
+| 🫀 **QT Sentinel** | Personalized cardiac drug-risk simulation (final-year project) | 🔨 In Progress |
+| 🧬 **AI Smart Healthcare System** | Patient diagnosis and monitoring with AI | 🔨 In Progress |
+| 🛡️ **Cybersecurity Toolkit** | Threat detection and vulnerability analysis | 🔜 Next Level |
+| 🤖 **AI Automation Engine** | Intelligent task automation pipeline | 🔜 Next Level |
 
 </div>
 
----
+<br/>
 
-## 📈 GitHub Stats
+## 📊 Player Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7DD3FC&currStreakLabel=A78BFA" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FBD000&currStreakLabel=06B6D4" alt="streak"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=devhayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhayat&bg_color=0D1117&color=A78BFA&line=7DD3FC&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhayat&bg_color=0D1117&color=7C3AED&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="activity" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Build Something
+## 🤝 Join My Party
 
 <div align="center">
 
-> *"Dreaming Big. Building Bigger."*
-
-Open to **hackathons**, **AI & healthcare projects**, **mentoring**, and **community collaborations**.
+Open to **hackathons**, **AI and healthcare projects**, **mentoring** and **community collaborations**.
 
 <br/>
 
@@ -195,8 +157,8 @@ Open to **hackathons**, **AI & healthcare projects**, **mentoring**, and **commu
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=9999&color=A78BFA&center=true&vCenter=true&width=700&lines=Code.+Compete.+Conquer.+%7C+Dreaming+Big.+Building+Bigger." alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=9999&color=A78BFA&center=true&vCenter=true&width=800&height=40&lines=DREAMING+BIG.+BUILDING+BIGGER." alt="footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=110&section=footer" width="100%" alt="footer wave"/>
 
 </div>
