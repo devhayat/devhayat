@@ -15,8 +15,6 @@
 ![Mentor](https://img.shields.io/badge/Tech%20Mentor-200%2B%20Students-F59E0B?style=for-the-badge&logoColor=white)
 ![Open](https://img.shields.io/badge/Open%20To-Hackathons-22C55E?style=for-the-badge&logo=rocket&logoColor=white)
 
-<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fdevhayat&label=PROFILE%20VIEWS&labelColor=%230D1117&countColor=%237C3AED&style=for-the-badge&labelStyle=upper" alt="profile views"/>
-
 </div>
 
 <br/>
