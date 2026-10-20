@@ -100,7 +100,7 @@ class MohammedHayatAzad:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FBD000&currStreakLabel=06B6D4&sideNums=2563EB&currStreakNum=C4B5FD&sideLabels=06B6D4&dates=94A3B8&timezone=Asia/Kolkata)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devhayat&theme=highcontrast&border_radius=5.1&timezone=Asia/Kolkata)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
