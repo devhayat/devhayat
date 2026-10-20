@@ -96,22 +96,6 @@ Cloud & DevOps  [███████░░░]  70%
 
 <br/>
 
-## 👾 Boss Levels (Projects)
-
-<div align="center">
-
-| Project | What it does | Status |
-|:---|:---|:---:|
-| 🚑 **MediNexus: Pre-Mortem Dispatch**<br/><sub>🥈 Build vs Break 2nd Prize</sub> | Emergency hospital capacity coordination with belief-based bed tracking and pre-mortem testing of dispatch plans | ✅ Cleared |
-| 🫀 **QT Sentinel** | Personalized cardiac drug-risk simulation (final-year project) | 🔨 In Progress |
-| 🧬 **AI Smart Healthcare System** | Patient diagnosis and monitoring with AI | 🔨 In Progress |
-| 🛡️ **Cybersecurity Toolkit** | Threat detection and vulnerability analysis | 🔜 Next Level |
-| 🤖 **AI Automation Engine** | Intelligent task automation pipeline | 🔜 Next Level |
-
-</div>
-
-<br/>
-
 ## 📊 Player Stats
 
 <div align="center">
