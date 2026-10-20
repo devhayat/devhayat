@@ -1,62 +1,71 @@
 <div align="center">
 
-![Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=3000&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Mohammed+Hayat+Azad)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Mohammed%20Hayat%20Azad&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Developer%20%E2%80%A2%20Android%20Dev%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Tech%20Mentor&descSize=18&descAlignY=60" width="100%" alt="banner"/>
 
-![Achievements](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%8F%86+Coder+Of+The+Year+2026;%F0%9F%8F%86+Best+Intern+--+V2V+EdTech+LLP;%F0%9F%A5%87+1st+Place+%C2%B7+Prompt+War+Hackathon;%F0%9F%A5%87+1st+Place+%C2%B7+Technical+Quiz+Competition;%F0%9F%A5%87+1st+Place+%C2%B7+Quiz+Competition;%F0%9F%8F%81+Technothon+Grand+Finalist;%F0%9F%8F%86+Nurofest+Double+Winner;%F0%9F%92%BB+Multiple+Hackathon+Wins)
+<a href="https://github.com/devhayat">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Code.+Compete.+Conquer.;Building+AI-Powered+Smart+Healthcare;Mentored+200%2B+Students+%F0%9F%8E%93;Build+vs+Break+Hackathon+%E2%80%94+2nd+Prize+%F0%9F%A5%88;Technical+Team+%40+GDG+on+Campus+AIKTC;Coder+Of+The+Year+2026+%F0%9F%8F%86" alt="typing intro"/>
+</a>
 
-![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&height=40&lines=AI+Developer+%7C+Android+Dev+%7C+Cybersecurity;Building+AI-Powered+Smart+Healthcare;Code.+Compete.+Conquer.)
+<br/>
 
-<img src="https://github.com/devhayat/devhayat/raw/main/assets/github.gif" width="100%" alt="banner"/>
+![Location](https://img.shields.io/badge/Mumbai-India-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20Healthcare-7DD3FC?style=for-the-badge&logo=heart&logoColor=white)
+![Mentor](https://img.shields.io/badge/Tech%20Mentor-200%2B%20Students-F59E0B?style=for-the-badge&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Open%20To-Hackathons-34D399?style=for-the-badge&logo=rocket&logoColor=white)
 
-![](https://img.shields.io/badge/Mumbai-India-A78BFA?style=flat-square&logo=googlemaps&logoColor=white)
-![](https://img.shields.io/badge/Focus-AI%20Healthcare-7DD3FC?style=flat-square&logo=heart&logoColor=white)
-![](https://img.shields.io/badge/Open%20To-Hackathons-34D399?style=flat-square&logo=rocket&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=devhayat&color=A78BFA&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
 <table>
 <tr>
-<td width="54%">
+<td width="55%" valign="top">
 
 ```python
 class MohammedHayatAzad:
     def __init__(self):
-        self.name      = "Mohammed Hayat Azad"
-        self.alias     = "devhayat"
-        self.location  = "Mumbai, India"
-        self.roles     = [
+        self.name     = "Mohammed Hayat Azad"
+        self.alias    = "devhayat"
+        self.location = "Mumbai, India"
+        self.studying = "B.Tech Computer Engineering @ A.I. Kalsekar Technical Campus"
+        self.roles    = [
             "AI Developer",
             "Android Developer",
             "Cybersecurity Enthusiast",
+            "Tech Mentor",
         ]
-        self.focus     = "AI-Powered Smart Healthcare"
-        self.spirit    = "Code. Compete. Conquer."
+        self.communities = [
+            "GDG on Campus AIKTC (Technical Team)",
+            "V2V EdTech (Python Full Stack Mentor)",
+        ]
+        self.focus    = "AI-Powered Smart Healthcare"
+        self.spirit   = "Code. Compete. Conquer."
 
     def current_mission(self):
-        return "Building Real-World Solutions"
+        return "Building real-world solutions that matter"
 
     def fun_fact(self):
         return "I debug faster than I sleep"
 ```
 
 </td>
-<td width="46%">
+<td width="45%" valign="top">
 
-```
-SKILL MATRIX
-================================
-AI / ML        [█████████░]  90%
-Android Dev    [█████████░]  90%
-Cybersecurity  [████████░░]  80%
-Full Stack     [████████░░]  75%
-Cloud & DevOps [███████░░░]  70%
-================================
-Dreaming Big. Building Bigger.
-```
+### 🎯 Right Now
+- 🧬 Building **AI-powered healthcare** systems
+- 🎓 Mentoring **200+ students** in Python Full Stack
+- 🌐 Contributing to **GDG on Campus AIKTC**
+- 🏆 Competing in hackathons (and winning them)
+- 🚀 Dreaming of a **startup ecosystem**
+
+### 🎓 Education
+- **B.Tech, Computer Engineering** (DSE) — A.I. Kalsekar Technical Campus (AIKTC), New Panvel
+- **Diploma, Computer Engineering** — Anjuman-I-Islam's Abdul Razzak Kalsekar Polytechnic, Panvel
+  *88.65% · First Class with Distinction*
 
 </td>
 </tr>
@@ -64,14 +73,29 @@ Dreaming Big. Building Bigger.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| 🏆 **Coder Of The Year 2026** | 🏆 **Best Intern — V2V EdTech** | 🥇 **1st · Prompt War Hackathon** | 🥇 **1st · Technical Quiz** |
-| 🥇 **1st · Quiz Competition** | 🏁 **Technothon Grand Finalist** | 🏆 **Nurofest Double Winner** | 💻 **Multiple Hackathon Wins** |
+| | | |
+|:---:|:---:|:---:|
+| 🏆 **Coder Of The Year 2026**<br/><sub>AIKTC Polytechnic</sub> | 🥈 **2nd Prize**<br/><sub>Build vs Break Hackathon</sub> | 🏅 **Best Intern**<br/><sub>V2V EdTech LLP</sub> |
+| 🥇 **1st Place**<br/><sub>Prompt War Hackathon</sub> | 🥇 **1st Place**<br/><sub>Technical Quiz Competition</sub> | 🥇 **1st Place**<br/><sub>Quiz Competition · SSJ Polytechnic</sub> |
+| 🏆 **Nurofest Double Winner**<br/><sub>2× First Prize</sub> | 🏁 **Technothon Grand Finalist**<br/><sub>VES</sub> | 🎓 **Tech Mentor**<br/><sub>Mentored 200+ Students</sub> |
+
+</div>
+
+---
+
+## 🌐 Community & Leadership
+
+<div align="center">
+
+| Role | Where | What I do |
+|:---|:---|:---|
+| 🔵 **Technical Team Member** | **Google Developer Groups on Campus · AIKTC** | Build, ship and support tech initiatives, events and the community website |
+| 🎓 **Python Full Stack Mentor** | **V2V EdTech** | Coordinate and teach the Python Full Stack Internship; **200+ students mentored** |
+| 📱 **Mobile App Dev Intern → Best Intern** | **V2V EdTech LLP** | Jun–Sep 2025 · built Android apps and earned the Best Intern award |
 
 </div>
 
@@ -83,94 +107,40 @@ Dreaming Big. Building Bigger.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,cpp,c,cs,swift,php,html,css&perline=12" alt="languages"/>
 
-**AI / ML**
+**AI / ML & Data**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv&perline=12" alt="ai"/>
 
 **Frameworks & Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,nextjs,react,angular,bootstrap,tailwind&perline=12" alt="frameworks"/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase&perline=12" alt="mobile"/>
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,neo4j,dynamodb,mongodb&perline=12" alt="databases"/>
 
-**Cloud & DevOps**
+**Cloud, DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-**Tools & Hardware**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,digitalocean,docker,git,github,linux,postman,figma,arduino,raspberrypi,unity,blender,powerbi&perline=12" alt="tools"/>
 
 </div>
 
----
+### 📊 Skill Matrix
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devhayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
-
-<br/>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+```text
+AI / ML         [█████████░]  90%
+Android Dev     [█████████░]  90%
+Cybersecurity   [████████░░]  80%
+Full Stack      [████████░░]  75%
+Cloud & DevOps  [███████░░░]  70%
+Mentoring       [█████████░]  90%
+```
 
 ---
 
@@ -179,21 +149,44 @@ Dreaming Big. Building Bigger.
 <div align="center">
 
 | Project | Tech Stack | Impact | Status |
-|:---|:---|:---|:---|
-| **AI Smart Healthcare System** | Python · TensorFlow · Android · Firebase | Real-world patient diagnosis and monitoring | In Progress |
-| **Cybersecurity Toolkit** | Python · Networking · Scripting | Threat detection and vulnerability analysis | Coming Soon |
-| **Android App** | Kotlin · Firebase · Android SDK | Mobile-first solution for real users | Coming Soon |
-| **AI Automation Engine** | Python · FastAPI · ML | Intelligent task automation pipeline | Coming Soon |
+|:---|:---|:---|:---:|
+| 🚑 **MediNexus: Pre-Mortem Dispatch**<br/><sub>Build vs Break · 🥈 2nd Prize</sub> | Next.js · OpenStreetMap · AI Assistant | Emergency hospital capacity coordination with belief-based bed tracking and pre-mortem testing of dispatch plans | ✅ Shipped |
+| 🫀 **QT Sentinel** | Healthcare AI · Simulation | Personalized cardiac drug-risk simulation (final-year project) | 🔨 In Progress |
+| 🧬 **AI Smart Healthcare System** | Python · TensorFlow · Android · Firebase | Real-world patient diagnosis and monitoring | 🔨 In Progress |
+| 🛡️ **Cybersecurity Toolkit** | Python · Networking · Scripting | Threat detection and vulnerability analysis | 🔜 Coming Soon |
+| 🤖 **AI Automation Engine** | Python · FastAPI · ML | Intelligent task automation pipeline | 🔜 Coming Soon |
 
 </div>
 
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
 
-![Footer](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=9999&color=A78BFA&center=true&vCenter=true&width=700&lines=Code.+Compete.+Conquer.+%7C+Dreaming+Big.+Building+Bigger.)
+<img src="https://streak-stats.demolab.com?user=devhayat&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7DD3FC&currStreakLabel=A78BFA" alt="streak"/>
 
-**Connect With Me**
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devhayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhayat&bg_color=0D1117&color=A78BFA&line=7DD3FC&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+> *"Dreaming Big. Building Bigger."*
+
+Open to **hackathons**, **AI & healthcare projects**, **mentoring**, and **community collaborations**.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed-Hayat-Azad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedhayatazad13@gmail.com)
@@ -202,6 +195,8 @@ Dreaming Big. Building Bigger.
 
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=devhayat&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/devhayat)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=9999&color=A78BFA&center=true&vCenter=true&width=700&lines=Code.+Compete.+Conquer.+%7C+Dreaming+Big.+Building+Bigger." alt="footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer wave"/>
 
 </div>
