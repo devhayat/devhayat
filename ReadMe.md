@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=230&section=header&text=Mohammed%20Hayat%20Azad&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20Developer%20%C2%B7%20Android%20Dev%20%C2%B7%20Cybersecurity%20%C2%B7%20Tech%20Mentor&descSize=17&descAlignY=62" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1400&color=FBD000&center=true&vCenter=true&width=900&height=50&lines=PLAYER+1+%3A+MOHAMMED+HAYAT+AZAD;CODER+OF+THE+YEAR+2026;BUILD+VS+BREAK+HACKATHON+-+2ND+PRIZE;MENTORED+200%2B+STUDENTS;TECH+TEAM+%40+GDG+ON+CAMPUS+AIKTC;CODE.+COMPETE.+CONQUER." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1400&color=FBD000&center=true&vCenter=true&width=900&height=50&lines=%3A+MOHAMMED+HAYAT+AZAD;CODER+OF+THE+YEAR+2026;BUILD+VS+BREAK+HACKATHON+-+2ND+PRIZE;MENTORED+200%2B+STUDENTS;TECH+TEAM+%40+GDG+ON+CAMPUS+AIKTC;CODE.+COMPETE.+CONQUER." alt="typing"/>
 
 <br/>
 
